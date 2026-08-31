@@ -1,0 +1,103 @@
+Lala Company — FMCG Policies and Terms
+Fictional training document containing 100 lines of policy information for Retrieval-Augmented Generation (RAG) testing.
+LALA COMPANY — FMCG TERMS, POLICIES, AND CUSTOMER GUIDELINES
+1. Lala Company sells a wide range of fast-moving consumer goods including food, beverages, personal care, home care, and household products.
+2. These terms apply to customers purchasing products through Lala Company stores, website, mobile applications, and authorized sales channels.
+3. Customers must provide accurate name, contact, billing, and delivery information when placing an order.
+4. Lala Company may refuse or cancel an order when product information, pricing, or availability contains an obvious error.
+5. Product availability is subject to stock levels at the time an order is processed.
+6. An order is considered confirmed only after Lala Company sends an order confirmation through an approved communication channel.
+7. Customers must be at least eighteen years old to place an order unless local law permits another arrangement.
+8. Customers are responsible for protecting their account passwords and must not share confidential login information.
+9. Lala Company may suspend accounts involved in fraudulent, abusive, or repeated policy-violating activity.
+10. Product descriptions, images, pack sizes, and specifications are provided for customer guidance and may change periodically.
+11. Actual product packaging may differ from images shown online while the underlying product remains substantially the same.
+12. Customers should check product labels for ingredients, allergens, nutritional information, and usage instructions before consumption.
+13. Lala Company does not guarantee that every product is suitable for every customer's dietary or personal requirements.
+14. Customers with allergies must independently verify the ingredient and allergen information printed on the product packaging.
+15. Perishable products must be stored according to the manufacturer's instructions immediately after delivery.
+16. Lala Company is not responsible for spoilage caused by incorrect storage after successful delivery.
+17. Products with damaged, leaking, opened, or visibly tampered packaging should not be consumed or used.
+18. Customers should report damaged products to Lala Company as soon as reasonably possible after delivery.
+19. Refund requests may require the order number, product details, photographs, and a description of the problem.
+20. Refund eligibility depends on the product category, condition, reason for return, and applicable consumer law.
+21. Food and other consumable products generally cannot be returned after delivery unless they are damaged, defective, incorrect, or otherwise covered by law.
+22. Personal care and hygiene products may be returned only when permitted by applicable policy and when safety seals remain intact.
+23. Household products may qualify for return when they are defective, incorrect, or damaged during transportation.
+24. Products purchased during clearance or special promotional events may have different return conditions.
+25. A refund may be denied when damage results from misuse, negligence, improper storage, or unauthorized modification.
+26. If Lala Company approves a refund, the refund will normally be issued to the original payment method.
+27. Refund processing time may depend on the customer's bank, card issuer, payment provider, or other financial institution.
+28. Shipping charges may be refundable when Lala Company is responsible for delivering an incorrect or damaged product.
+29. Delivery charges may not be refundable for customer-initiated returns unless required by applicable law.
+30. Customers should retain invoices, receipts, order confirmations, and relevant delivery records until an issue is resolved.
+31. Lala Company may replace an eligible defective product instead of issuing a monetary refund when appropriate.
+32. Replacement products are subject to availability at the time the replacement is processed.
+33. If a replacement is unavailable, Lala Company may offer a refund or another reasonable resolution.
+34. Customers must not return products purchased from unauthorized sellers through Lala Company return channels.
+35. Promotional coupons may have expiry dates, minimum purchase requirements, product exclusions, or usage limits.
+36. Promotional discounts cannot normally be exchanged for cash unless explicitly stated in the promotion.
+37. Only one promotional code may be applied to an order unless the promotion specifically allows multiple discounts.
+38. Lala Company reserves the right to withdraw or modify promotions when permitted by law.
+39. Prices displayed by Lala Company may change based on promotions, supplier costs, taxes, or other commercial factors.
+40. The price applicable to an order is normally the price shown at the time the order is confirmed.
+41. Customers are responsible for reviewing the order summary before completing payment.
+42. Accepted payment methods may include cards, bank transfers, digital wallets, cash on delivery, or other supported methods.
+43. Cash-on-delivery availability may vary by delivery location, order value, product type, and operational conditions.
+44. Failed or reversed payments may cause an order to remain pending or be cancelled.
+45. Lala Company may limit quantities of selected products when demand is unusually high.
+46. Bulk purchases intended for resale may be subject to separate commercial terms and approval.
+47. Delivery dates and time windows are estimates unless Lala Company explicitly provides a guaranteed delivery commitment.
+48. Delivery may be delayed because of weather, traffic, public events, supply disruptions, or other circumstances beyond reasonable control.
+49. Customers should ensure that someone authorized to receive the order is available at the provided delivery address.
+50. Lala Company may contact customers when an address, delivery instruction, or order detail requires clarification.
+51. Customers must not provide false delivery instructions or knowingly use an address that cannot receive the shipment.
+52. If a delivery attempt fails because of customer unavailability or an incorrect address, additional delivery charges may apply where permitted.
+53. Customers should inspect packages for visible damage before accepting delivery when inspection is reasonably possible.
+54. Lala Company may use third-party logistics providers to transport and deliver customer orders.
+55. Delivery partners must follow Lala Company's customer service and handling requirements.
+56. Customers must treat Lala Company employees, delivery personnel, and support representatives respectfully.
+57. Threatening, abusive, discriminatory, or violent behavior toward employees or delivery personnel is prohibited.
+58. Customers must not misuse customer support by submitting knowingly false claims or repeated fraudulent refund requests.
+59. Lala Company may investigate suspected fraud, theft, payment abuse, coupon abuse, or other prohibited activity.
+60. Lala Company may cooperate with law enforcement or regulatory authorities when legally required.
+61. Customer reviews should be honest, relevant, and based on genuine purchasing or product experience.
+62. Reviews containing threats, personal information, hate speech, or unlawful content may be removed.
+63. Customers must not post confidential information belonging to Lala Company, its employees, suppliers, or other customers.
+64. Lala Company may collect information necessary to process orders, payments, deliveries, customer service requests, and account management.
+65. Personal information is handled according to Lala Company's applicable privacy policy and relevant data protection laws.
+66. Customers should not send payment card numbers, passwords, or other highly sensitive information through ordinary customer-support messages.
+67. Lala Company uses reasonable security measures to protect customer information but cannot guarantee absolute security of electronic systems.
+68. Employees must follow company procedures concerning product handling, inventory control, cash management, and workplace safety.
+69. Employees must accurately record inventory movements and must not intentionally alter stock records.
+70. Employees must not remove company inventory for personal use without proper authorization.
+71. Employees must report suspected theft, fraud, unsafe products, or serious policy violations through approved internal channels.
+72. Employees must follow hygiene and food-safety procedures when handling food and other consumable products.
+73. Expired or recalled products must be removed from sale according to company procedures.
+74. Product recalls must be communicated and managed promptly according to applicable regulations and internal instructions.
+75. Suppliers must provide accurate product, pricing, packaging, batch, expiry, and compliance information.
+76. Lala Company may inspect supplier products and documentation before accepting inventory.
+77. Suppliers must notify Lala Company promptly about product recalls, safety issues, or significant quality concerns.
+78. Lala Company may terminate supplier relationships for serious quality, compliance, ethical, or contractual violations.
+79. Company employees must avoid conflicts of interest and disclose relevant situations according to internal policy.
+80. Employees must not accept improper gifts, payments, commissions, or benefits intended to influence business decisions.
+81. Company equipment, systems, credentials, and confidential information must be used only for authorized business purposes.
+82. Unauthorized access to company systems, customer information, or supplier systems is prohibited.
+83. Company records must be maintained accurately and retained according to applicable legal and internal requirements.
+84. Environmental practices may include reducing unnecessary packaging, improving logistics efficiency, and responsibly managing waste.
+85. Customers are encouraged to recycle packaging according to the recycling facilities and rules available in their local area.
+86. Lala Company may update these terms and policies from time to time to reflect operational, legal, or business changes.
+87. Updated terms normally apply from the effective date stated in the revised policy unless otherwise required by law.
+88. If any provision of these terms is found invalid or unenforceable, the remaining provisions will continue to apply where legally permitted.
+89. Nothing in these terms limits a customer's statutory consumer rights that cannot legally be excluded or restricted.
+90. Customer complaints should include the order number, relevant product information, date of purchase, and a clear description of the issue.
+91. Lala Company aims to acknowledge and investigate customer complaints within a reasonable operational timeframe.
+92. Complex complaints may require additional investigation involving suppliers, payment providers, delivery partners, or quality teams.
+93. Customers should cooperate with reasonable requests for information needed to investigate a complaint or refund.
+94. Lala Company may retain records of complaints and resolutions for quality assurance, fraud prevention, and legal compliance.
+95. Where applicable, disputes should first be addressed through Lala Company's customer support or formal complaint process.
+96. Nothing in the dispute process prevents customers from exercising rights available under applicable consumer protection laws.
+97. These policies are intended to provide clear expectations for customers, employees, suppliers, and delivery partners.
+98. Customers should read product-specific instructions and warnings because general company policies cannot replace manufacturer guidance.
+99. By using Lala Company's services, customers acknowledge that they have had an opportunity to review the applicable terms and policies.
+100. This document is fictional training data created for RAG testing and does not represent the actual policies of any real company.
