@@ -1,5 +1,4 @@
 import chromadb
-from embedings import get_embeddings
 
 
 client = chromadb.PersistentClient(path="./chroma_db")
